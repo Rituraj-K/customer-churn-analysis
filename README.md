@@ -38,6 +38,12 @@ An interactive dashboard was created to visualize:
 * Customer segmentation
 * Service impact on churn
 
+## Dashboard Preview
+![Dashboard](Churn by Contract Type.png)
+![Dashboard](Churn by Tenure in Months.png)
+![Dashboard](Churn by Monthly Charges.png)
+![Dashboard](Churn by Tech Support.png)
+
 ## Key Insights
 
 * Month-to-month contract customers show highest churn
